@@ -1,9 +1,3 @@
----
-title: Categorize
-layout: template
-filename: CATEGORIZE.md
----
-
 
 ## Tasks
 
