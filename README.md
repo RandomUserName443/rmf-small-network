@@ -2,6 +2,8 @@
 # The Risk Management Framework
 The purpose of the RMF is to help ensure that, throughout the system development lifecycle, information systems, organizations, and individuals are adequately protected, and that authorizing officials have the information needed, to make credible, risk-based decisions regarding the operation or use of systems.
 
+![image](./RMF_Diagram.jpg)
+
 # RMF Steps
 Each step is broken down into its own directory and page. Significant artifacts produced in each process are linked below.
 
