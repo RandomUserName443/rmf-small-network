@@ -1,4 +1,6 @@
 
+In this step, the information and system are categorized according to the impact of loss.
+
 ## Tasks
 
 **C-1 - System Description**
@@ -16,7 +18,7 @@
 
 ## Artifacts
 
-1. [System Categorization Document](./SystemSecurityPlan.odt)
+1. [System Categorization Document](./SystemCategorization.odt)
 
 ## Publications
 
